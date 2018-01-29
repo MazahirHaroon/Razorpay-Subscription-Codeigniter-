@@ -11,7 +11,7 @@ A subscription page with Razorpay Razorpay PHP Integration
 
 ## Contents:
 1. Subscription Screen, with three Plans Cards.
-2. Ceheckout-from integration.
+2. Checkout-form integration.
 3. Payment authorization and capturing using Razorpay.
 4. Creation of Customer and Subscription plan using Razorpay API
 5. Local table updation with customer and subscription details.
