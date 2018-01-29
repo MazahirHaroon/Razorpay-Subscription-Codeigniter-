@@ -17,12 +17,12 @@ A subscription page with Razorpay Razorpay PHP Integration
 ### How do I get set up? ###
 
 * To run server side code locally you can use LAMP, WAMP, MAMP, or XAMP
-
 * Clone the file and make the necessary changes. 
-	-.\application\config\config.php
+	
+	- .\application\config\config.php
 		Change $base_url
 
-	-.\.htaccess	
+	- .\.htaccess	
 		RewriteBase \foldername
     
   *.\application\config\database.php
