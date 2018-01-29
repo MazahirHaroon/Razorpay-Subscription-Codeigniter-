@@ -1,0 +1,12 @@
+.curve{
+	border-radius: 10px;
+}
+.razorpay-payment-button{
+	background: #337ab7;
+	color: white;
+	border-radius: 5px;
+}
+.subscribe{
+	width: 18rem !important;
+	border: 10px #e9ecef solid !important;
+}
