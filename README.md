@@ -37,9 +37,9 @@ A subscription page with Razorpay Razorpay PHP Integration
   * Edit the keySecret inside application/controller/mainctrl.php
   * In custom.js 
     - Change
-      var url = "../subscribe/mainctrl/rp_cust";
+    	* var url = "../subscribe/mainctrl/rp_cust";
     - To 
-       var url = "../your_folder_name/mainctrl/rp_cust";
+    	* var url = "../your_folder_name/mainctrl/rp_cust";
 
 ### Razorpay PHP SDK ###
 Make sure that you download the latest version of `razorpay-php.zip` file from
