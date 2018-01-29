@@ -20,15 +20,16 @@ A subscription page with Razorpay Razorpay PHP Integration
 * Clone the file and make the necessary changes. 
 	
 	- .\application\config\config.php
-		Change $base_url
+		* Change $base_url
 
 	- .\.htaccess	
-		RewriteBase \foldername
+		* RewriteBase \foldername
     
-  *.\application\config\database.php
-		Change the databasse name, username and password
-  * Create a database and import subscribe.sql file into it, to create a needed tables 
-	
+ 	- .\application\config\database.php
+		* Change the databasse name, username and password
+ 
+ * Create a database and import subscribe.sql file into it, to create a needed tables 
+ 
 (Read this [Documentation](https://codeigniter.com/user_guide/) for issues regarding Codeigniter)
   
   * Edit the keySecret inside application/controller/mainctrl.php
@@ -44,4 +45,4 @@ the releases section **[here](https://github.com/razorpay/razorpay-php/releases)
 (The assets folder contains the razorpay-php.zip file in this project)
 
 ### Who do I talk to? ###
-* [Mazahir Haroon](mailto:mazahirharoon@gmail.com?Subject=Regarding%20Redrose%20Website)
+* [Mazahir Haroon](mailto:mazahirharoon@gmail.com?Subject=Regarding%20Razorpaye%20Subscription)
