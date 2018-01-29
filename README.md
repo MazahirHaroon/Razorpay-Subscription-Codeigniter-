@@ -5,7 +5,7 @@ A subscription page with Razorpay Razorpay PHP Integration
 * [Codeigniter Version 3](https://codeigniter.com/) 
 * PHP 7.0.10
 * MySQL 5.7.14
-* Uses [CRazorpay PHP Library](https://github.com/razorpay/razorpay-php) 
+* Uses [Razorpay PHP Library](https://github.com/razorpay/razorpay-php) 
 
 ## Contents:
 1. Subscription Screen, with three Plans Cards.
@@ -37,7 +37,7 @@ A subscription page with Razorpay Razorpay PHP Integration
     - To 
        var url = "../your_folder_name/mainctrl/rp_cust";
 
-# Razorpay PHP SDK
+### Razorpay PHP SDK ###
 Make sure that you download the latest version of `razorpay-php.zip` file from
 the releases section **[here](https://github.com/razorpay/razorpay-php/releases)**.
 (The assets folder contains the razorpay-php.zip file in this project)
