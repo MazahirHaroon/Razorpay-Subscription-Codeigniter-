@@ -30,7 +30,7 @@ A subscription page with Razorpay Razorpay PHP Integration
  	- .\application\config\database.php
 		* Change the databasse name, username and password
  
- * Create a database and import subscribe.sql file into it, to create a needed tables 
+ * Create a database and import subscribe.sql file into it, to create needed tables 
  
 (Read this [Documentation](https://codeigniter.com/user_guide/) for issues regarding Codeigniter)
   
@@ -47,4 +47,4 @@ the releases section **[here](https://github.com/razorpay/razorpay-php/releases)
 (The assets folder contains the razorpay-php.zip file in this project)
 
 ### Who do I talk to? ###
-* [Mazahir Haroon](mailto:mazahirharoon@gmail.com?Subject=Regarding%20Razorpaye%20Subscription)
+* [Mazahir Haroon](mailto:mazahirharoon@gmail.com?Subject=Regarding%20Razorpay%20Subscription)
