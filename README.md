@@ -19,15 +19,16 @@ A subscription page with Razorpay Razorpay PHP Integration
 * To run server side code locally you can use LAMP, WAMP, MAMP, or XAMP
 
 * Clone the file and make the necessary changes. 
-	*.\application\config\config.php
+	-.\application\config\config.php
 		Change $base_url
 
-	*.\.htaccess	
+	-.\.htaccess	
 		RewriteBase \foldername
     
   *.\application\config\database.php
-		Change the databasse name, username and password 
-
+		Change the databasse name, username and password
+  * Create a database and import subscribe.sql file into it, to create a needed tables 
+	
 (Read this [Documentation](https://codeigniter.com/user_guide/) for issues regarding Codeigniter)
   
   * Edit the keySecret inside application/controller/mainctrl.php
