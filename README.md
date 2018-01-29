@@ -7,7 +7,7 @@ A subscription page with Razorpay Razorpay PHP Integration
 * MySQL 5.7.14
 * Uses [Razorpay PHP Library](https://github.com/razorpay/razorpay-php) 
 
-![Subscription Page](https://github.com/MazahirHaroon/Razorpay-Subscription/blob/master/screenshots/Sub_Screen.png)
+![Subscription Page](https://github.com/MazahirHaroon/Razorpay-Subscription/blob/master/Screenshots/Sub_Screen.png)
 
 ## Contents:
 1. Subscription Screen, with three Plans Cards.
