@@ -37,7 +37,7 @@ class Mainctrl extends CI_Controller {
 		
 		//Razorpay API
 		//Copy Paste the MaRRs Razorpay account key here instead
-		$api = new RazorpayApi('rzp_test_9rv7A1enQpZtNb', 'mWKfnJ5f4m8d0ZQXyzsFQNC3');
+		$api = new RazorpayApi('your_api_key_here', 'your_api_secret_here');
 		$params = array(
 		    'count' => 2,
 		    'skip'  => 1,
@@ -73,7 +73,7 @@ class Mainctrl extends CI_Controller {
 
  	public function subscr(){
  		
-		$api = new RazorpayApi('rzp_test_9rv7A1enQpZtNb', 'mWKfnJ5f4m8d0ZQXyzsFQNC3');
+		$api = new RazorpayApi('your_api_key_here', 'your_api_secret_here');
 
 		$params = array(
 		    'count' => 2,
